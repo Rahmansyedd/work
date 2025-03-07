@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demo Js</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <button>Roll no:1 rahul kumar</button>
+    <script src="script.js"></script>
+    <script>
+        var time = prompt("hey whats the time:");
+        if (time > 5 && time < 12) {
+            alert("good morning")
+        }
+        else { alert("goodnight") }
+        const list = document.querySelector('output ul');
+        list.innerHTML = '';
+        let cities = ['munBai', 'DELhi', 'jaipur', 'gOa',]
+        
+        for (let i = 0; i < cities.length; i++) {
+            let lowercasecity = cities[i].toLowerCase();
+            let firstalphabet = lowercasecity.slice(0, 1);
+            lowercasecity = lowercasecity.replace(firstalphabet, firstalphabet.toUpperCase);
+            let listItem = document.creaatelement('li');
+            listItem.textContent = toLowerCase;
+            list.appendChild(listItem)
+
+
+
+        }
+
+    </script>
+    
+
+</body>
+
+
+</html>
