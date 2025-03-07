@@ -1,0 +1,31 @@
+manitech07@outlook.com	
+Abimani1596
+-----------------------
+ftp userid &pasword
+host:covantech.com
+port:
+user:sravani@covantech.com
+password:Covantech#6
+
+services
+   |
+right click upload
+      |
+check second box in starting
+         |
+finished uploading
+----------------------------------
+for uploading imgs open img folder in file zilla 
+                |
+           select img 
+                |
+ deploy online{i.e.C:\web development\covantech_files\img\services\}shortcut
+
+
+
+http://blrconstructions.in/
+http://blrconstructions.com/
+
+
+
+

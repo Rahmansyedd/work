@@ -1,0 +1,47 @@
+GMR WALK THROUGH 
+
+adding user
+--------
+assigne roles etc
+
+users
+add user
+email
+search
+
+make ready form :-pole recode form
+we can assis fulcrul app theough gmr app
+        |
+tracking num/num of poles/if we edit it will indeicat on all poles
+     |
+map view
+     |
+communication  means green
+
+gmr completed connected to flucrum 
+
+jets:
+----------------
+activity:
+------------
+reports:
+
+worklocation  report collect all the information ABOUT PLOE
+work location by company
+sehow complny poles 
+estimation cosr report
+ show the ccost  and shares of poles and companyes
+
+allocation report means esxcel report 
+info about poles permits etc
+-------------
+import and exprt
+moving data to one pole to another pole using track numbers
+ with sections
+
+
+
+
+
+
+

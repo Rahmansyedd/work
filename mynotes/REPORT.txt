@@ -1,0 +1,87 @@
+260115.5
+DUKE CAROLINA REPORT:288,571.50 
+1-1-2024*1-31-2024
+-------------------------------------------------------------------------
+DATE:1/2/24--29/2/24
+OLD BACKUP REPORT : 243392.5
+JOINT USE ORACLE:  243392.5
+DUKE CAROLINA INVOICE BACKUP: 198,065.00 + 43,311.50 =241376.5
+DUKE CAROLINA INVOICE REPORT :  260,518.50 
+-------------------------------------------------------------------------
+
+DATE:1/3/24--31/3/24
+OLD BACKUP REPORT : 240528.5
+JOINT USE ORACLE:  240528.5
+DUKE CAROLINA INVOICE BACKUP :  217,670.00 + 22,858.50 =240528.5
+DUKE CAROLINA INVOICE REPORT : 478,373.50 
+-------------------------------------------------------------------------
+DATE:1/4/24--22/4/24
+OLD BACKUP REPORT :74132
+JOINT USE ORACLE: 74132
+DUKE CAROLINA INVOICE BACKUP : $67,927.00 + $6,205.00 =74132
+DUKE CAROLINA INVOICE REPORT  $197,734.00 
+-------------------------------------------------------------------------
+////////////////////////////////////////////////
+DPE REPORTS:
+-----------
+march:
+old progress backup report:237845
+dep joint use report: 237,311.00 
+----------------------------------------
+april
+old progress backup report:149722
+dep joint use report: 149530
+-----------
+
+second test:
+------------
+1/1/2024--1/31/2024
+OLD BACKUP REPORT :260115.5
+DUKE CAROLINA INVOICE BACKUP: $231,852.00 +  $28,263.50 = 260115.5
+DUKE CAROLINA INVOICE REPORT:260115.5
+JOINT USE ORACLE:260115.5
+------------------------------------
+DATE:1/2/24--29/2/24
+OLD BACKUP REPORT : 243392.5
+JOINT USE ORACLE:  243392.5
+DUKE CAROLINA INVOICE BACKUP:  $198,065.00 +  $43,311.50 =241376.5
+DUKE CAROLINA INVOICE REPORT :   $243,392.50 
+------------------------------------------------
+DATE:1/3/24--31/3/24
+OLD BACKUP REPORT : 240528.5
+JOINT USE ORACLE:  240528.5
+DUKE CAROLINA INVOICE BACKUP :  217,670.00 + 22,858.50 =240528.5
+DUKE CAROLINA INVOICE REPORT :  $240,528.50 
+-----------------------------------------------------
+DATE:1/4/24--22/4/24
+OLD BACKUP REPORT :81260
+JOINT USE ORACLE: 81260
+DUKE CAROLINA INVOICE BACKUP :  $69,861.00 +$11,399.00 =81260
+DUKE CAROLINA INVOICE REPORT : 81260
+------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

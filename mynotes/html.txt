@@ -1,0 +1,196 @@
+html:
+hyper text markup language 
+developed in the year 1993 by Tim Berner lee
+current version html 5
+it is also know as the most basic budling block of the web
+html is used to structure the content of a web page
+the link available in the any website for connecting webpages are give with the help of html
+-------------------------------------------------------------------------------
+CSS: 
+cascading style sheet
+CSS used color values to specify colors
+color also specified using predefine color name, rgb and hex values.
+htmlcolorcode.com
+
+-----------------
+background properties
+there are several different types of background properties in css
+background-img
+background-repeat
+background-position
+////////////
+background - image:url("nature.jpg");
+backgground-size:500px;//cover;
+background-repeat: no-repeat;
+
+---------------------------
+
+css selectors: use to find there elements using there id,class etc
+type of selectors:
+there are several selectors most common selectors are 
+element selectors: select element using name for example p h. tags
+id selectors: select the element with specific id
+class selectors
+universal selectors
+group selectors
+-----------------------------------
+----------------------------------------
+JavaScript:
+use to validate to validate the user data
+JavaScript is a light weight scripting lang
+it is dynamical type scripting language
+
+DOM :DOCUMENT OBLECT MODEL
+DOM is a api for html and xml document
+api means the mediator between the JavaScript and the html documents 
+equal{=} symbol to assigned a value
+i.e. var bike name;
+bike name = TVs;
+document, write (bike name);
+
+let bike name;
+bike name = TVs;
+document, write (bike name);
+we can repeat same variable in different sscope it will not creat any proble but it will not allow to redeclare any declare value.
+  
+const: if we don't want to change values and that will neve change
+we can change the properties of constant objects
+const  x =5, y= 7;
+const z=x+y;
+document. Write(z);
+
+datatypes: every programming has a own set of datatypes which is unique in its own way
+there are two types of datatypes.///////it is a kind of data which store in variable's
+
+1.primative datatypes :store in stack; base on datatypes
+divided in to 5 categories there are numbers, Boolean, string, undefined, and null
+
+2.nonprimative datatypes : store in he ;are derive or object
+it is complex data types there are divided in to 2 categories there are arrays and objects.
+i e  document. Write(type of(x));
+-------------------------------------------------
+control statements: are also instructions ////if we want to make a certain dissension in JavaScript the we use control statement
+                                        control statement
+                                                 |
+                        ----------------------------------------------------
+		       |                                                   |
+             condition statement                                     iterative statements
+                 |        |                                        |      |      |        |
+             if else   switch                                     for   while  do while  for in
+
+--------------------------------------------------------------------------------------------------------------------------
+switch case control statement:
+use to find the numerical numbers and give output in text for example months 4 means(April)
+much more efficient then if else when its come to execution time
+
+break statement: use to print only one output i.e. January ////not both January and February 
+---------------------------------
+for loop in js: 
+are use when we want to perform a activity multiple times or n numbers of times
+there are for types fo loops 
+for loop:
+
+we use for loop when we are clear with the number of iterations in advance
+we have installation decorations 
+if we want to print table of 10 the use this
+for(var a=1;a<=10;a++)
+{document.write("<h1>"+10*a"<\h1>");}
+-----------------------------------
+while loop: when we are taking i put from user and the input is Y the print will work and the in put is N then the process will stop
+var x=1
+while(x<=50)
+{document.write("<h1>"+x+"<\h1>");
+x+=2;}
+----------------------------------------
+do-wile loop:
+var x=6;
+do{document.write(x+""+"welcome");x--;}while{x>5};
+-----------------------------------------------------
+prime number are not use in loops
+--------------------------------------
+amstrong number using while loop:
+153 is amstrong number
+parse will do convert the float value in integer
+
+const in js:keyword use to declare the variable
+variable:container of storing information
+document.querySelectorAll: use to select group of elements in a DOM(document object element)
+addEventListener: it is a build in function allows you to attached event handler to an specific element .ex button or link 
+QUARYSELECTOR:allows you to select the first element within the document that matches a specified CSS selector.
+----------------------------------------------
+---------------------------------------------
+---------------------------------------------
+-----------------------------------------------
+back-end developer:
+backend developer role is to focus on the details  like budling the effective websites architecture scripting and writing the code and maintaining the communication between the database and the browser
+application  programming interfaces'	
+
+
+angular:
+data binding: allows an internet user to manipulate webpage element using a web browser it is used for web pages that contains interactive components such as forms calculators, tutorials and games
+angular is two way data binding
+
+
+angular os a full-fledged MVC frameworks
+mvc:model view controller
+
+why angular: angular and JavaScript brings structure and consistency to web application development. And provide scalability and maintainability
+angular is specially developed for single page application 
+
+what is angular: angular is a open source  JavaScript framework.it is completely written in typescript primarily aim to developed single page application it us html syntax to express your application components clearly maintain by google it is designe for  web desktop and mobile platforms
+features of angular :
+(DOM) Document object model: treats an xml html document as a tree structure in which each node is an object representing a part of the document
+typescript is a super set of java script
+databinding
+and testing: angular use Jasmin for testing
+---------------------
+advantages in angular :custom components, data binding, dependency injection, testing
+---------------------------------------------------------------------------------------
+limitations:
+limited seo,  hard to learn ,complex, migration
+index.html responsible to which file has to be loaded
+main.ts: angular model is to be loaded when the applications starts
+------------------------------
+commands:
+ng new app
+dependency injection: we can used it by services
+n g s name
+in services component create arrays
+export class record service{
+info1 : string["adam",'e132','at @abc.net']
+info2 : string["adam",'e132','at @abc.net']
+info3 : string["adam",'e132','at @abc.net']
+getinfo1() :string[]{return this.info1}
+getinfo2() :string[]{return this.info1}
+getinfo3() :string[]{return this.info1}}
+emp-info file add 3 arrays
+inforecive1: string[]=[];
+inforecive1: string[]=[];
+inforecive1: string[]=[];
+then
+import services
+declare provider:[recordservices]
+
+creat a object
+in constructor(private rservice : recordsservice){}
+
+------------------------------------------------------------
+to update npm {npm i --save--dev @angular/cli@latest}
+----------------------------------------------------------
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+

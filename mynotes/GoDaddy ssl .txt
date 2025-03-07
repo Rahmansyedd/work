@@ -1,0 +1,50 @@
+	GoDaddy ssl 
+       |
+webhosting manage
+        |
+    cPanel
+      |
+security system(ssl/tls)
+       |
+certificate signing request
+       |
+enter details
+       |   
+domain filed {website name}
+        |
+   generate
+       |
+return to ssl manager
+---------------------------------------
+return to home page
+        |
+ssl certificate {setup}
+        |
+choose domain{website name}
+        |
+past encoded csr
+        |
+    continue
+        |
+agree and continue 
+-------------------------------------------------------
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://www.shinensmile.co.in/$1 [R,L]
+
+
+-------------------------------------------------------
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://www.yourdomain.com /$1 [R,L]
+-------------------------------------------------------
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,82 @@
+
+--------------------------------------
+Two-way Data Binding: Two-way data binding in Angular allows automatic synchronization of data between the model and the view. It's achieved using the [(ngModel)] syntax. For example, <input [(ngModel)]="username"> binds the username property in both the component and the template.
+
+Angular Directives: Angular directives are instructions to manipulate the DOM or change the behavior of elements. Structural directives modify the DOM's structure, like ngIf and ngFor. Attribute directives change the appearance or behavior of an element, such as ngClass or ngStyle.
+
+Angular Services: Angular services are singleton objects that perform common tasks independent of components. To create and inject a service, define it using the @Injectable decorator and provide it in the providers array of a module. To inject a service into a component, use constructor injection.
+
+Angular CLI: The Angular CLI is a command-line tool that simplifies creating, building, testing, and deploying Angular applications. It provides commands like ng new, ng generate, and ng build to streamline development tasks.
+
+NgModules: NgModules are a way to organize the components, services, directives, and other artifacts in an Angular application. They help manage the dependencies and provide a logical structure for the app. Modules are defined using the @NgModule decorator.
+
+ViewChild vs. ContentChild: @ViewChild is used to access a reference to a child component, element, or directive within a component's template. @ContentChild is used to access content projected into a component using <ng-content>. @ViewChild is used for components within the template, while @ContentChild is used for projected content.
+
+Routing in Angular: Routing in Angular involves setting up routes for different components or views. It allows navigation between different parts of the application without reloading the page. To implement routing, define routes using the RouterModule and configure them in the AppRoutingModule.
+
+Angular Forms: Angular supports both template-driven forms and reactive forms. Template-driven forms are built using directives like ngModel and are suitable for simple forms. Reactive forms are built using FormControl, FormGroup, and FormBuilder classes and are more flexible for complex forms.
+
+Lazy Loading: Lazy loading is a technique that loads only the necessary parts of an application when they are required, improving initial load times. To implement lazy loading, create separate modules for each feature or section and configure routes using the loadChildren property.
+
+Async Pipe: The async pipe in Angular subscribes to an Observable or Promise and automatically updates the view whenever the data changes. For example, <div>{{ data$ | async }}</div> would display the data emitted by the Observable data$.
+
+Communication Between Components: Communication between components can be achieved using Input and Output properties, EventEmitter, and services. Input properties allow parent components to pass data to child components, while Output properties and EventEmitter enable child components to emit events to their parent components. Services act as intermediaries for sharing data between components.
+
+RxJS in Angular: RxJS is a library for reactive programming. It's used in Angular for handling asynchronous operations and managing streams of data. For example, you can use Observable to represent a stream of data and apply operators like map and filter to manipulate the data.
+
+Performance Optimization: To optimize Angular application performance, consider strategies like using OnPush change detection, optimizing template binding, using lazy loading, minifying and bundling assets, and implementing server-side rendering (SSR).
+
+Angular Templates: Angular templates are HTML files that include Angular-specific syntax. Interpolation is done using double curly braces {{ }}, structural directives like ngFor are used for looping, and attribute directives like ngClass are used for dynamic styling.
+
+Angular Animations: Angular animations allow you to add animations to elements in your application. You can define animations using the @angular/animations package and apply them using the [@triggerName] syntax. For example, <div [@fadeInOut]>Content</div> would use the fadeInOut animation.
+---------------------------------
+async pipe
+use for filtering the data it canit can transfor data before its showing in template are three types of pipes uppercase lowercase currency case
+The async pipe’s purpose is to mark the components that need to be checked for changes.
+
+communication b/w  component
+what is directives how any types of directives are there
+-----------------------------------------------------------------------------------
+what is single page application
+routing and lazy loading comes under sngle page application
+
+angular life cycle 
+you have to know ngoninit ngonchange ngdocheck
+-----------------------------------------------------------------------------
+differten between ng oninit and constructor
+---------------------------------------
+what is services in angular
+---------------------------------------
+who do we use dependancy injection's
+Dependency injection (DI)  is a software design pattern in which the objects can be passed in the form of dependencies
+--------------------------------------
+how to implement  http  in angular
+---------------------------------------------
+observer and observerableand streams
+Observables have the capacity to emit multiple values over a given period of time.
+They can be executed only when subscribed using subscribe() method.
+--------------------------------------------------------
+different between rajx and promisses
+A promise emits only a single value over a given period of time.
+Promises can be executed as soon as they get created.
+Promises once executed are non cancellable.
+----------------------
+what is angular
+angular is a open source web application frame work created by google.it use to creat front-end and single page applivations.it take cares of many aspects such as http clint,validation routinglayout forms etc.
+---------------------------------
+what is component in angular
+---------------------------------
+. What is RxJS?
+RxJS is a library, and the term stands for Reactive Extensions for JavaScript. It is used so that we can use observables in our JavaScript project,
+---------------------------------------------
+What does Angular Material mean?
+Angular Material is a UI component library that allows professionals to develop consistent, attractive, and completely functional websites, web pages, and web applications.
+----------------------------------------------
+What is DOM?
+The full form of DOM is Document Object Model, 	
+
+
+
+
+
+

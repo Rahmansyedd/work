@@ -1,0 +1,63 @@
+units 
+allocations:vehical details
+every thing related to project unit we can seen in project tab using project id
+equipment request:transfer  vehicle from one company to another company
+relese
+request 
+transfer
+--------------------------
+swaps out:closing the unit
+replacing old unit num with new one baase on priority
+--------------------------------------
+stlc: software tessting life cycle
+sdlc: software development life cycle
+---------------------------
+verification:static,less cost,less cost application is meeting the application are not,
+quality assuring team 
+---------------------------
+validation:conforming whether software  meeting requirement  forst we will execute and check  the errors
+quality controle team 
+-------------------------
+positive and negative  testing
+positive testing:determined  what the system suppose to do,app meeting the req or not
+negative testing:
+determin what the systemis not suppose to do, help to find defects in app
+---------------------------
+WHITE BOX TESTING:completed testing is devepnd on internal code structure perfor during unit testing
+induval testing
+balck box: conseder what are the input we are giveing and what out we are expected the
+grey box: testing:combination of both 
+-----------------------------------------
+test statigy:how to aproch and are we achiving the gole are not
+--------------------------------------
+test case:zaifer tools
+-----------------------------------------
+test bed:which application we are testing
+testing 
+------------
+test scenario 
+----------------.
+test plan
+--------------
+what is bolcker:critical bugs
+-------------------------------
+automate testing
+manual testing
+---------------------------
+              automate testing
+             ------------------
+smoke testing:if any application refrest in 3 monts we r checking wheter applicatuo is running  are not
+----------------------
+regration testing:
+-------------------------------
+consolated invoice is left
+
+
+
+
+
+
+
+
+
+

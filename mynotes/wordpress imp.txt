@@ -1,0 +1,56 @@
+wordpress imp plugins
+----------------------------------
+site speed=>shortpixel/wp rocket 
+backup=> updraftplus
+analytic=>google site kit
+security =>jetpack 
+1.an kis met 2. cloudfare
+backlinks => link whisper 
+seo=>rank math seo use for technical seo  onpage seo
+affiliate marketing =>aawp(paid) pretty link
+adds => ad inserter
+themes=> elementer.
+others=> tablepress/easy table of content
+----------------------------------
+cms=>content management system
+------------------------------------
+6.4.3
+----------------------------------------------------------
+post 
+media
+pages
+commands
+user friendly
+plugins
+-----------------------------------------------------------
+hooks
+in themes if we want to add or change any functionalty or if we wank to do any costumaization wil use hooks
+action hooks=>in user inter face we can show any post we can send emails msgs data base data modify 
+add action()
+do action()
+remove action()
+has action()
+
+filter hooks=>
+-------------------------------------------------------------------
+how many default tables are in wp
+12 tablesx
+wp option 
+wp user
+wp post
+wp link
+---------------------------------------------------------------------
+how many roles are in wp
+editer roll
+author roll
+customizer role
+-------------------------------------------------------
+differeent b/w post and page
+post is a dymanic intity
+post is a dymanic and page is static int
+---------------------------------------------
++919000517847
+
+9000517847
+
+
